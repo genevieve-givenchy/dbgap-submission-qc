@@ -1,0 +1,3 @@
+VARNAME	VARDESC	TYPE	UNITS	MIN	MAX	VALUES
+SUBJECT_ID	De-identified subject ID	string			
+SAMPLE_ID	De-identified sample ID	string			

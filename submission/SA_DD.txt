@@ -1,0 +1,6 @@
+VARNAME	VARDESC	TYPE	UNITS	MIN	MAX	VALUES	
+SAMPLE_ID	De-identified sample ID	string					
+BODY_SITE	Body site where sample was collected	string					
+ANALYTE_TYPE	Analyte type	string					
+IS_TUMOR	Tumor status	encoded				Yes=Tumor	No=Normal
+HISTOLOGICAL_TYPE	Histological type of tumor	string					

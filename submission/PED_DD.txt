@@ -1,0 +1,6 @@
+VARNAME	VARDESC	TYPE	UNITS	MIN	MAX	VALUES	
+FAMILY_ID	Family ID	string					
+SUBJECT_ID	De-identified subject ID	string					
+FATHER	Father's SUBJECT_ID; 0 = not in study	string					
+MOTHER	Mother's SUBJECT_ID; 0 = not in study	string					
+SEX	Biological sex	encoded				1=Male	2=Female

@@ -1,0 +1,8 @@
+VARNAME	VARDESC	TYPE	UNITS	MIN	MAX	VALUES		
+SUBJECT_ID	De-identified subject ID	string						
+AGE_DX	Age at breast cancer diagnosis	integer	years	18	89			
+BMI	Body mass index at enrollment	decimal	kg/m2	12	70			
+Smoking_Status	Smoking status at enrollment	encoded				0=Never	1=Former	2=Current
+ER_STATUS	Estrogen receptor status of primary tumor	string						
+YEAR_DX	Calendar year of diagnosis	integer	year	2000	2025			
+NOTES	Clinical coordinator notes	string						

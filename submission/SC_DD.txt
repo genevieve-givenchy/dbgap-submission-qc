@@ -1,0 +1,4 @@
+VARNAME	VARDESC	TYPE	UNITS	MIN	MAX	VALUES	
+SUBJECT_ID	De-identified subject ID	string					
+CONSENT	Consent group as determined by the IRB-approved consent forms	encoded				1=General Research Use (GRU)	2=Health/Medical/Biomedical (IRB) (HMB-IRB)
+SEX	Biological sex	encoded				1=Male	2=Female

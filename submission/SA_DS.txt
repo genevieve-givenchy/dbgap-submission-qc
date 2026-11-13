@@ -1,0 +1,115 @@
+SAMPLE_ID	BODY_SITE	ANALYTE_TYPE	IS_TUMOR	HISTOLOGICAL_TYPE
+SM-0001-N	Blood	DNA	No	
+SM-0001-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0002-N	Blood	DNA	No	
+SM-0002-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0003-N	Blood	DNA	No	
+SM-0003-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0004-N	Blood	DNA	No	
+SM-0004-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0005-N	Blood	DNA	No	
+SM-0006-N	Blood	DNA	No	
+SM-0006-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0007-N	Blood	DNA	No	
+SM-0008-N	Blood	DNA	No	
+SM-0008-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0009-N	Blood	DNA	No	
+SM-0009-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0010-N	Blood	DNA	No	
+SM-0010-T	Breast	DNA	No	Invasive ductal carcinoma
+SM-0011-N	Blood	DNA	No	
+SM-0011-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0012-N	Blood	DNA	No	
+SM-0012-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0013-N	Blood	DNA	No	
+SM-0013-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0014-N	Blood	DNA	No	
+SM-0014-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0015-N	Blood	DNA	No	
+SM-0015-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0016-N	Blood	DNA	No	
+SM-0016-T	Breast	DNA	Yes	Invasive lobular carcinóma
+SM-0017-N	Blood	DNA	No	
+SM-0017-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0018-N	Blood	DNA	No	
+SM-0018-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0019-N	Blood	DNA	No	
+SM-0020-N	Blood	DNA	No	
+SM-0020-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0021-N	Blood	DNA	No	
+SM-0021-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0022-N	Blood	DNA	No	
+SM-0022-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0023-N	Blood	DNA	No	
+SM-0023-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0024-N	Blood	DNA	No	
+SM-0024-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0025-N	Blood	DNA	No	
+SM-0025-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0026-N	Blood	DNA	No	
+SM-0026-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0027-N	Blood	DNA	No	
+SM-0027-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0028-N	Blood	DNA	No	
+SM-0028-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0029-N	Blood	DNA	No	
+SM-0029-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0030-N	Blood	DNA	No	
+SM-0030-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0031-N	Blood	DNA	No	
+SM-0032-N	Blood	DNA	No	
+SM-0032-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0033-N	Blood	DNA	No	
+SM-0033-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0034-N	Blood	DNA	No	
+SM-0034-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0035-N	Blood	DNA	No	
+SM-0035-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0036-N	Blood	DNA	No	
+SM-0036-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0037-N	Blood	DNA	No	
+SM-0037-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0038-N	Blood	DNA	No	
+SM-0038-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0039-N	Blood	DNA	No	
+SM-0039-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0041-N	Blood	DNA	No	
+SM-0042-N	Blood	DNA	No	
+SM-0042-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0043-N	Blood	DNA	No	
+SM-0043-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0044-N	Blood	DNA	No	
+SM-0044-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0045-N	Blood	DNA	No	
+SM-0045-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0046-N	Blood	DNA	No	
+SM-0046-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0047-N	Blood	DNA	No	
+SM-0047-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0048-N	Blood	DNA	No	
+SM-0048-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0049-N	Blood	DNA	No	
+SM-0049-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0050-N	Blood	DNA	No	
+SM-0051-N	Blood	DNA	No	
+SM-0051-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0052-N	Blood	DNA	No	
+SM-0052-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0053-N	Blood	DNA	No	
+SM-0053-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0054-N	Blood	DNA	No	
+SM-0054-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0055-N	Blood	DNA	No	
+SM-0055-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0056-N	Blood	DNA	No	
+SM-0056-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0057-N	Blood	DNA	No	
+SM-0057-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0058-N	Blood	DNA	No	
+SM-0058-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0059-N	Blood	DNA	No	
+SM-0059-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0060-N	Blood	DNA	No	
+SM-0060-T	Breast	DNA	Yes	Invasive ductal carcinoma
+SM-0098-N	Blood	DNA	No	
+SM-0099-N	Blood	DNA	No	
