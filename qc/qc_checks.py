@@ -73,7 +73,7 @@ report("PHE subjects missing from SC", sorted(set(phe.SUBJECT_ID) - sc_ids))
 report("SSM subjects missing from SC", sorted(set(ssm.SUBJECT_ID) - sc_ids))
 report("SSM samples missing from SA", sorted(set(ssm.SAMPLE_ID) - set(sa.SAMPLE_ID)))
 report("SA samples missing from SSM", sorted(set(sa.SAMPLE_ID) - set(ssm.SAMPLE_ID)))
-# The same check written as an anti-join, the way you'd explain it in an interview:
+# The same check written as an anti-join:
 orphans = phe.merge(sc, on="SUBJECT_ID", how="left", indicator=True).query("_merge == 'left_only'")
 assert set(orphans.SUBJECT_ID) == set(phe.SUBJECT_ID) - sc_ids
 

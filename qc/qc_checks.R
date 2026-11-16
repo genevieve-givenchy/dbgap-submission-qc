@@ -27,7 +27,7 @@ phe <- phe %>% mutate(across(everything(), trimws))
 report("SC duplicate SUBJECT_ID", sc %>% group_by(SUBJECT_ID) %>% filter(n() > 1))
 report("SSM duplicate SAMPLE_ID", ssm %>% group_by(SAMPLE_ID) %>% filter(n() > 1))
 
-# 3. Consent: the interview question, as an anti-join
+# 3. Consent: phenotype subjects with no consent record, as an anti-join
 report("PHE subjects with no consent record (anti_join)",
        phe %>% anti_join(sc, by = "SUBJECT_ID") %>% select(SUBJECT_ID))
 c0 <- sc %>% filter(CONSENT == "0") %>% pull(SUBJECT_ID)

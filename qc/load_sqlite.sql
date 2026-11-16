@@ -1,4 +1,4 @@
--- Load the tab-delimited submission files into SQLite (run from the solutions/ folder).
+-- Load the tab-delimited submission files into SQLite (run from the qc/ folder).
 .mode tabs
 .import ../submission/SC_DS.txt sc
 .import ../submission/SSM_DS.txt ssm

@@ -7,7 +7,7 @@ SELECT '1 PHE subject with no consent record' AS chk, p.SUBJECT_ID
 FROM phe p LEFT JOIN sc s ON TRIM(p.SUBJECT_ID) = s.SUBJECT_ID
 WHERE s.SUBJECT_ID IS NULL;
 
--- Same thing with NOT EXISTS (often faster on big tables; say both in an interview)
+-- Same thing with NOT EXISTS (often faster on big tables)
 SELECT '1b NOT EXISTS version' AS chk, p.SUBJECT_ID
 FROM phe p
 WHERE NOT EXISTS (SELECT 1 FROM sc s WHERE s.SUBJECT_ID = TRIM(p.SUBJECT_ID));
